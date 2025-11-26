@@ -1,6 +1,6 @@
 # kafka-streams-fundamentals
 
-Rigth now, I currently learning more about the strems apacha kafka concepts on udemy.
+Rigth now, I'm currently learning more concepts deep about the **strems apacha kafka** on udemy.
 
    <P>
        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
